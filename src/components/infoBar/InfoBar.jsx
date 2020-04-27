@@ -14,7 +14,7 @@ function InfoBar({ room }) {
       </div>
       <div className="rightInnerContainer">
         <a href="/">
-          <img className="closeIcon" src={onlineIcon} alt="close" />
+          <img src={closeIcon} alt="close" />
         </a>
       </div>
     </div>

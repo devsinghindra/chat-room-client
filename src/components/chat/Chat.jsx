@@ -16,7 +16,8 @@ function Chat({ location }) {
   const [message, setMessage] = useState("");
   const [messages, setMessages] = useState([]);
 
-  const ENDPOINT = "localhost:5000";
+  // const ENDPOINT = "localhost:5000";
+  const ENDPOINT = "https://chat-on-web-app.herokuapp.com/";
 
   useEffect(
     function () {

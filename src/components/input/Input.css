@@ -25,5 +25,12 @@ select:focus {
   padding: 20px;
   display: inline-block;
   border: none;
+  border-radius: 2%;
   width: 20%;
+  transition-duration: 0.4s;
+}
+
+.sendButton:hover {
+  background-color: #0026ff; /* Green */
+  color: white;
 }

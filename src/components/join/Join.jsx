@@ -9,6 +9,7 @@ function Join() {
   return (
     <div className="joinOuterContainer">
       <div className="joinInnerContainer">
+        <h1 className="title">Chat Room</h1>
         <h1 className="heading">Join</h1>
         <div>
           <input

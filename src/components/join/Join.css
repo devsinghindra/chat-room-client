@@ -39,6 +39,14 @@ body {
   border-bottom: 2px solid white;
 }
 
+.title {
+  color: rgb(255, 123, 0);
+  font-size: 3.5em;
+  font-style: italic;
+  padding-bottom: 50px;
+  /* border-bottom: 2px solid white; */
+}
+
 .button {
   color: #fff !important;
   text-transform: uppercase;
